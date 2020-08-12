@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="goods_dao" />
+        <module name="goods_dao2" />
+        <module name="goods_domain" />
+        <module name="goods_domain2" />
+        <module name="goods_service" />
+        <module name="goods_service2" />
+        <module name="goods_web2" />
+        <module name="goods_webs" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="goods_dao" target="1.8" />
+      <module name="goods_dao2" target="1.8" />
+      <module name="goods_domain" target="1.8" />
+      <module name="goods_domain2" target="1.8" />
+      <module name="goods_parent" target="1.8" />
+      <module name="goods_parent2" target="1.8" />
+      <module name="goods_service" target="1.8" />
+      <module name="goods_service2" target="1.8" />
+      <module name="goods_web" target="1.8" />
+      <module name="goods_web2" target="1.8" />
+      <module name="goods_webs" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
